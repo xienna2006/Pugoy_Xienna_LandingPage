@@ -319,7 +319,6 @@ nav {
     display: block !important;
 }
 
-/* --- FOOTER --- */
 footer {
     background-color: #222;
     color: white;
@@ -333,7 +332,6 @@ footer {
     margin: 0 10px;
 }
 
-/* Responsive Media Query */
 @media (max-width: 768px) {
     .nav-links {
         display: none;
@@ -359,4 +357,5 @@ footer {
     .hero-content h1 {
         font-size: 2rem;
     }
+
 }
